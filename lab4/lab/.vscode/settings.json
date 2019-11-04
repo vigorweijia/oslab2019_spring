@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "device.h": "c",
+        "x86.h": "c",
+        "io.h": "c",
+        "types.h": "c",
+        "lib.h": "c"
+    }
+}
